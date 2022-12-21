@@ -1,0 +1,3 @@
+C:/Users/7319139/Documents/CSC372/NumberOfWitnesses/cmake-build-debug/CMakeFiles/NumberOfWitness.dir
+C:/Users/7319139/Documents/CSC372/NumberOfWitnesses/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/7319139/Documents/CSC372/NumberOfWitnesses/cmake-build-debug/CMakeFiles/rebuild_cache.dir
